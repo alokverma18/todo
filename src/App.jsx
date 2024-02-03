@@ -53,7 +53,6 @@ function App() {
                     </div>
                 </div>
             </div>
-      <h1 className='text-orange-500 pd-2 bg-black'>Alok</h1>
       </ToDoProvider>
   )
 }
